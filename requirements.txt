@@ -3,3 +3,17 @@ numpy
 pandas
 pydeck
 streamlit
+langchain
+CTransformers
+sentence_transformers
+chromadb
+pypdf
+streamlit
+fastapi
+jinja2
+aiofiles
+PyPDF2
+python-multipart
+qdrant-client
+llama_index
+typing-extensions
